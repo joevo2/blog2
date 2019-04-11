@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  url: 'https://blog.joevo2.com',
+  title: 'Joel Yek',
+  subtitle: 'Here is where I do my long form post, anything else tweet me at @joveo2 #react #reactnative #node #developer #anime',
+  copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-5243219-11',
   menu: [
     {
       label: 'Articles',
@@ -25,14 +25,14 @@ module.exports = {
   author: {
     name: 'John Doe',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Here is where I do my long form post, anything else tweet me at @joveo2 #react #reactnative #node #developer #anime',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'joevo2@gmail.com',
+      telegram: '',
+      twitter: 'joevo2',
+      github: 'joevo2',
+      rss: '',
+      vkontakte: ''
     }
   }
 };
