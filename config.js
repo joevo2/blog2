@@ -23,7 +23,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Joel Yek',
     photo: '/photo.jpg',
     bio: 'Here is where I do my long form post, anything else tweet me at @joveo2 #react #reactnative #node #developer #anime',
     contacts: {
