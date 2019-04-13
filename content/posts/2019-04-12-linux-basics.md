@@ -2,7 +2,7 @@
 template: post
 title: Linux Basics
 slug: linux-basics
-draft: true
+draft: false
 date: 2013-12-16T09:58:55.570Z
 description: Some nice essential linux command
 category: Code
@@ -10,6 +10,7 @@ tags:
   - Code
   - Linux
 ---
+
 ## To see current Directory - `pwd`
 
 Example output, /User/Joel
