@@ -1,8 +1,6 @@
 ---
-template: page
-title: About me
-slug: about
-draft: false
+template: "page"
+title: "About me"
 ---
 I'm Joel Yek, a web and mobile app developer, speaker, workshop conductor, anime fan, and podcast listener living in Kuala Lumpur, Malaysia 🇲🇾
 
