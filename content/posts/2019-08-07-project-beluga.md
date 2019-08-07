@@ -2,7 +2,7 @@
 template: post
 title: Project Beluga
 slug: project-beluga
-draft: true
+draft: false
 date: 2019-08-07T09:34:56.245Z
 description: 'Another day another "startup" but this time round, I''m not leading the charge'
 category: startup
