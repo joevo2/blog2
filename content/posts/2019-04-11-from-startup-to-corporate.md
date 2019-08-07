@@ -13,6 +13,8 @@ tags:
   - Startup
   - Corporate
 ---
+![](/media/career-1-lg.jpg "vase lunch")
+
 Last year I've made a decision, a decision that remove myself from the comfort zone that I'm in for the past 2 years. 
 
 Working in [Vase](https://vase.ai) is an experience that I would value for the rest of my life. Seeing how my company's founders work with their blood and sweat. Building it piece by piece from mere 5 employees all the way to 20+ employees. Working painstakingly to get the company moving at the right direction and making sure that we are well feed and productive. 
