@@ -15,4 +15,6 @@ That day my BA/SCRUM master was sitting at the pantry. I went ahead and do what 
 
 I was new in the company, I should talk to people I said to myself, and I sat down. "Hey Nic", I said, then we proceed to talk about some general life stuff. Then he suddenly stroke me with, "Hey Joel, I have this idea...". Immediately I know where is this heading. 
 
-to be completed
+_to be completed_
+
+PS: One of the reason I went ahead and write this blog post that I did not intend to write is all because of this person [Malcolm](https://malcolmkee.com/). He is a superb React developer, dedicating his time teaching people React.js for free. I saw his blog and be like "Hey! He wrote a blog post every single month!, aren't that what I wanted to do but I didn't?". And there goes my blog post...
