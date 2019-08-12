@@ -25,7 +25,7 @@ module.exports = async (graphql, actions) => {
         currentPage: i,
         postsLimit: postsPerPage,
         postsOffset: i * postsPerPage,
-        prevPagePath: i <= 1 ? '/' : `/blog/page/${i - 1}`,
+        prevPagePath: i <= 1 ? '/blog' : `/blog/page/${i - 1}`,
         nextPagePath: `/blog/page/${i + 1}`,
         hasPrevPage: i !== 0,
         hasNextPage: i !== numPages - 1
