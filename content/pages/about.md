@@ -1,6 +1,7 @@
 ---
-title: "About"
+title: "Joel Yek"
 template: "page"
+slug: "/"
 ---
 ![Joel giving Expo talk](/media/18839699_1147547678725323_7972906241950516554_o.jpg "Joel giving Expo talk")
 

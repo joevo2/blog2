@@ -10,17 +10,17 @@ module.exports = {
   googleAnalyticsId: 'UA-5243219-11',
   menu: [
     {
-      label: 'Blog',
+      label: 'About',
       path: '/'
     },
     {
-      label: 'About',
-      path: '/pages/about'
+      label: 'Blog',
+      path: '/blog'
     },
-    {
-      label: 'Contact',
-      path: '/pages/contacts'
-    }
+    // {
+    //   label: 'Contact',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
     name: 'Joel Yek',
