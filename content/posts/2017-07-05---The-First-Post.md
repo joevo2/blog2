@@ -1,14 +1,17 @@
 ---
-title: The First Post
-date: "2017-07-05T20:04:40.407Z"
-template: "post"
+template: post
+title: "The First Post - After the migration \U0001F602"
+slug: /posts/first-post/
 draft: false
-slug: "/posts/first-post/"
-category: "Introduction"
+date: '2017-07-05T20:04:40.407Z'
+description: >-
+  You are here either because you’ve been doing research about me or you have
+  been browsing some old post in this blog because of an interesting article
+  that I’ve posted.
+category: Introduction
 tags:
-  - "Introduction"
-  - "Tech"
-description: "You are here either because you’ve been doing research about me or you have been browsing some old post in this blog because of an interesting article that I’ve posted."
+  - Introduction
+  - Tech
 ---
 
 You are here either because you’ve been doing research about me or you have been browsing some old post in this blog because of an interesting article that I’ve posted. 😏 
