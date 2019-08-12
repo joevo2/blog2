@@ -1,6 +1,8 @@
 ---
-title: "About"
-template: "page"
+template: page
+title: About
+slug: pages/about
+draft: false
 ---
 ![Joel giving Expo talk](/media/18839699_1147547678725323_7972906241950516554_o.jpg "Joel giving Expo talk")
 
@@ -12,6 +14,6 @@ Follow me on Twitter too 😊 [@joevo2](https://twitter.com/joevo2)
 
 ## Recent Projects
 
-* BAE Systems Applied Intelligence 😎
-* Developed/lead the development for [Respondent dashboard](https://getvase.com) and mobile app ([iOS](https://apps.apple.com/my/app/vase-surveys/id1342109487)/[Android](https://play.google.com/store/apps/details?id=ai.vase.jaguar&hl=en)) with [Vase.ai](https://vase.ai)
-* Conducted React Native [workshop](https://github.com/joevo2/johor-spending-tracking) with [GetCTO](https://getctoreactnative.peatix.com/?lang=en-my), HELP College of Arts and Technology and various other events around KL/Malaysia 😊
+* Currently working with BAE Systems Applied Intelligence 😎 
+* Previously lead the development for the [respondent dashboard](https://getvase.com) and mobile app ([iOS](https://apps.apple.com/my/app/vase-surveys/id1342109487)/[Android](https://play.google.com/store/apps/details?id=ai.vase.jaguar&hl=en)) for [Vase.ai](https://vase.ai)
+* Conducted React Native [workshop](https://github.com/joevo2/johor-spending-tracking) with [GetCTO](https://getctoreactnative.peatix.com/?lang=en-my), HELP College of Arts and Technology and various other developer community events around KL/Malaysia 😊
