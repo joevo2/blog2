@@ -9,6 +9,8 @@ category: startup
 tags:
   - startup
 ---
+![toddler stares at staircase ](/media/start.jpg "toddler stares at staircase ")
+
 Another day another "startup" but this time round, I'm not leading the charge. 
 
 That day my BA/SCRUM master was sitting at the pantry. I went ahead and do what I should do instead of "running away". I did the hard thing, not the easy and ignorance nobody see me and run easy thing.  
