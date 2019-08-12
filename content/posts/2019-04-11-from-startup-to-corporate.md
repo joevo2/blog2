@@ -6,7 +6,7 @@ draft: false
 date: 2019-04-11T14:36:58.450Z
 description: >
   Last year I made a decision, a decision that remove myself from the comfort
-  zone that I have be in for the past 2 years. 
+  zone that I had been in for the past 2 years. 
 category: Worklife
 tags:
   - Worklife
