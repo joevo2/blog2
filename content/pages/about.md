@@ -1,7 +1,7 @@
 ---
-title: "Joel Yek"
-template: "page"
-slug: "/"
+template: page
+title: Joel Yek
+slug: /
 draft: false
 ---
 ![Joel giving Expo talk](/media/18839699_1147547678725323_7972906241950516554_o.jpg "Joel giving Expo talk")
@@ -10,7 +10,7 @@ I'm Joel Yek, a web and mobile app developer, speaker, workshop conductor, anime
 
 I mainly develop web app using React and NodeJS, while mobile app development would be on React Native. On the side I do conduct some React Native workshop around Malaysia.
 
-Follow me on Twitter too 😊 [@joevo2](https://twitter.com/joevo2)
+Check out the my [blog](https://joevo2.com/blog) for any updates, thoughts, tutorial and any thing longer than a tweet. Anything else just follow me on twitter 😊 [@joevo2](https://twitter.com/joevo2)
 
 ## Recent Progress
 
