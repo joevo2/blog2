@@ -1,7 +1,10 @@
 ---
-template: "page"
-title: "About"
+template: page
+title: About
+slug: about
+draft: true
 ---
+![Joel giving Expo talk](/media/18839699_1147547678725323_7972906241950516554_o.jpg "Joel giving Expo talk")
 
 I'm Joel Yek, a web and mobile app developer, speaker, workshop conductor, anime fan, and podcast listener living in Kuala Lumpur, Malaysia 🇲🇾
 
