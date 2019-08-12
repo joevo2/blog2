@@ -12,7 +12,7 @@ I mainly develop web app using React and NodeJS, while mobile app development wo
 
 Follow me on Twitter too 😊 [@joevo2](https://twitter.com/joevo2)
 
-## Recent Projects
+## Recent Progress
 
 * Currently working with BAE Systems Applied Intelligence 😎 
 * Previously lead the development for the [respondent dashboard](https://getvase.com) and mobile app ([iOS](https://apps.apple.com/my/app/vase-surveys/id1342109487)/[Android](https://play.google.com/store/apps/details?id=ai.vase.jaguar&hl=en)) for [Vase.ai](https://vase.ai)

@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://blog.joevo2.com',
+  url: 'https://joevo2.com',
   title: 'Joel Yek',
   subtitle: 'Here is where I do my long form post, anything else tweet me at @joveo2 #react #reactnative #node #developer #anime',
   copyright: '',
@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Joel Yek',
     photo: '/photo.jpg',
-    bio: 'Here is where I do my long form post, anything else tweet me',
+    bio: 'Here is where I do my long form post, anything else tweet me 😊',
     contacts: {
       email: 'joevo2@gmail.com',
       telegram: '',
