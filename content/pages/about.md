@@ -10,10 +10,10 @@ I'm Joel Yek, a web and mobile app developer, speaker, workshop conductor, anime
 
 I mainly develop web app using React and NodeJS, while mobile app development would be on React Native. On the side I do conduct some React Native workshop around Malaysia.
 
-Check out the my [blog](https://joevo2.com/blog) for any updates, thoughts, tutorial and any thing longer than a tweet. Anything else just follow me on twitter 😊 [@joevo2](https://twitter.com/joevo2)
+Check out the [blog](https://joevo2.com/blog) section for any updates, thoughts, tutorial and any thing longer than a tweet. Anything else just follow me on twitter 😊 [@joevo2](https://twitter.com/joevo2)
 
 ## Recent Progress
 
-* Currently working with BAE Systems Applied Intelligence 😎 
+* Currently working with BAE Systems Applied Intelligence 😎 you guessed it can’t disclose too much but I bet ya is super cool 
 * Previously lead the development for the [respondent dashboard](https://getvase.com) and mobile app ([iOS](https://apps.apple.com/my/app/vase-surveys/id1342109487)/[Android](https://play.google.com/store/apps/details?id=ai.vase.jaguar&hl=en)) for [Vase.ai](https://vase.ai)
 * Conducted React Native [workshop](https://github.com/joevo2/johor-spending-tracking) with [GetCTO](https://getctoreactnative.peatix.com/?lang=en-my), HELP College of Arts and Technology and various other developer community events around KL/Malaysia 😊
