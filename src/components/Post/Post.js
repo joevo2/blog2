@@ -1,11 +1,32 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import Author from './Author';
-import Comments from './Comments';
+// import Comments from './Comments';
 import Content from './Content';
 import Meta from './Meta';
 import Tags from './Tags';
 import styles from './Post.module.scss';
+
+class UterancesComments extends React.Component {
+
+  componentDidMount() {
+    const script = document.createElement("script");
+    const anchor = document.getElementById("inject-comments-for-uterances");
+    script.setAttribute("src", "https://utteranc.es/client.js");
+    script.setAttribute("crossorigin", "anonymous");
+    script.setAttribute("async", true);
+    script.setAttribute("repo", "joevo2/blog2");
+    script.setAttribute("issue-term", "pathname");
+    script.setAttribute("theme", "github-light");
+    anchor.appendChild(script);
+  }
+
+  render() {
+    return (
+      <div id="inject-comments-for-uterances"></div>
+    );
+  }
+}
 
 const Post = ({ post }) => {
   const {
@@ -32,7 +53,8 @@ const Post = ({ post }) => {
       </div>
 
       <div className={styles['post__comments']}>
-        <Comments postSlug={post.fields.slug} postTitle={post.frontmatter.title} />
+        {/* <Comments postSlug={post.fields.slug} postTitle={post.frontmatter.title} /> */}
+        <UterancesComments />
       </div>
     </div>
   );

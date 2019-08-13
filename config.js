@@ -5,7 +5,7 @@ module.exports = {
   title: 'Joel Yek',
   subtitle: 'Here is where I do my long form post, anything else tweet me at @joveo2 #react #reactnative #node #developer #anime',
   copyright: '',
-  disqusShortname: 'joevo2',
+  // disqusShortname: 'joevo2',
   postsPerPage: 5,
   googleAnalyticsId: 'UA-5243219-11',
   menu: [
