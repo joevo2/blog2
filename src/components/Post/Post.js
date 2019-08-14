@@ -18,6 +18,7 @@ class UterancesComments extends React.Component {
     script.setAttribute("repo", "joevo2/blog2");
     script.setAttribute("issue-term", "pathname");
     script.setAttribute("theme", "github-light");
+    script.setAttribute("label", "comment");
     anchor.appendChild(script);
   }
 
