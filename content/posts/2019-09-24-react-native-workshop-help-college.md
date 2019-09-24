@@ -1,6 +1,6 @@
 ---
 template: post
-title: React Native Workshop @ HELP College
+title: React Native Workshop @ HELP College 2019
 slug: rn-workshop-sept-2019
 draft: false
 date: 2019-09-24T06:26:12.328Z
