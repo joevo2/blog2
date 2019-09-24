@@ -24,3 +24,7 @@ The nicest thing happened in the workshop is that I taught them how easy it is t
 Next I would need to conduct two related talks regarding React Native Web and Expo Web in iflix and Fave office in Malaysia. It's gonna be an exciting week ahead, other than the anxiety and procrastination :D 
 
 PS: Have to thanks [Evan Bacon](https://twitter.com/Baconbrix) for his own [GitBook on Expo Web](https://baconbrix.gitbook.io/react-native-web/) which inspired me to do the same.
+
+![](/media/capture.png)
+
+![](/media/capture1.png)
