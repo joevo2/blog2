@@ -2,7 +2,7 @@
 template: post
 title: React Native Workshop @ HELP College
 slug: rn-workshop-sept-2019
-draft: true
+draft: false
 date: 2019-09-24T06:26:12.328Z
 description: >-
   Conducted another React Native workshop, this time with a nifty GitBook course
