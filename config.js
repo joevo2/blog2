@@ -20,7 +20,11 @@ module.exports = {
     // {
     //   label: 'Contact',
     //   path: '/pages/contacts'
-    // }
+    // },
+    {
+      label: 'Workshop',
+      path: 'https://docs.joevo2.com'
+    },
   ],
   author: {
     name: 'Joel Yek',
