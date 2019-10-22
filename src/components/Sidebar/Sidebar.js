@@ -26,6 +26,13 @@ export const PureSidebar = ({ data, isIndex }: PureProps) => {
     <div className={styles['sidebar']}>
       <div className={styles['sidebar__inner']}>
         <Author author={author} isIndex={isIndex} />
+        <a href="https://www.buymeacoffee.com/joevo2" target="_blank">
+          <img
+            src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/black_img.png"
+            alt="Buy Me A Coffee"
+            style={{ height: 'auto !important', width: 'auto !important' }}
+          />
+        </a>
         <Menu menu={menu} />
         <Contacts contacts={author.contacts} />
         <Copyright copyright={copyright} />
