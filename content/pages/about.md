@@ -1,6 +1,6 @@
 ---
 template: page
-title: About Joel Yek
+title: Joel Yek
 slug: /
 draft: false
 ---
