@@ -14,6 +14,6 @@ Check out the [blog](https://joevo2.com/blog) section for my update, thought and
 
 ## Recent Progress
 
-* Currently working with BAE Systems Applied Intelligence in React front-end development.
+* Currently working with BAE Systems Digital Intelligence in React front-end development, along with extensive usage of TypeScript where I'm attached to a GIS project.
 * Previously lead the development for the [respondent dashboard](https://getvase.com) and mobile app ([iOS](https://apps.apple.com/my/app/vase-surveys/id1342109487)/[Android](https://play.google.com/store/apps/details?id=ai.vase.jaguar&hl=en)) for [Vase.ai](https://vase.ai)
 * Conducted React Native [workshop](https://github.com/joevo2/johor-spending-tracking) with [GetCTO](https://getctoreactnative.peatix.com/?lang=en-my), HELP College of Arts and Technology and various other developer community events around KL/Malaysia 😊
